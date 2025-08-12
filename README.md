@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # nfixBiodiversity_DiazoTIME
 
 The Diazotroph Taxonomic Identity and MEtabolism (DiazoTIME) database contains annotated taxonomy and metabolic predictions for nifH-, nifD-, and nifK- containing genomes (2798 genomes) in the Genome Taxonomy Database (GTDB; r214; Parks et al. 2022). All files for this database are found on Zenodo (https://doi.org/10.5281/zenodo.15311395). This is a supplemental repository that contains bash, python, and R scripts that were used in database generation. Example scripts for using the database are also included in this repository. 
